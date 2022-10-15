@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Sou a Thaís Bustamante
 
-<!--
-**thabus/thabus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas 
+- 📖 Estudando React  
+- 💼 Trabalhando em um projeto Front-end
 
-Here are some ideas to get you started:
+### Linguagens que tenho conhecimento:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="icons" style="display: inine-block;">
+  <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
+  <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> 
+  <img height="50em" src="https://dicasdejavascript.com.br/images/logo-javascript.png">
+  <img height="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"> 
+</div>
