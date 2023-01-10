@@ -16,4 +16,4 @@
 
 
 #### Meus trabalhos:
-- <a href="https://ibtech.sendodigital.com/" target="blank">Ibtech</a>
+- <a href="https://ibtech.sendodigital.com/" target="_blank">Ibtech</a>
