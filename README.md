@@ -1,7 +1,7 @@
 ## Olá! Sou a Thaís Bustamante
 
 - 🎓 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas - 2º Período
-- 📖 Estudando C  
+- 📖 Estudando Java
 
 
 ### Linguagens que tenho conhecimento:
