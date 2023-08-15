@@ -1,6 +1,6 @@
 ## Olá! Sou a Thaís Bustamante
 
-- 🎓 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas - 2º Período
+- 🎓 Atualmente faço faculdade de Ciência de Dados e Inteligência Artificial - 3º período
 - 📖 Estudando Java
 
 
