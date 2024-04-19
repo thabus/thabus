@@ -1,7 +1,7 @@
 ## Olá! Sou a Thaís Bustamante
 
 - 🎓 Atualmente faço faculdade de Ciência de Dados e Inteligência Artificial - 3º período
-- 📖 Estudando Java
+- 📖 Estudando Python
 
 
 ### Linguagens que tenho conhecimento:
