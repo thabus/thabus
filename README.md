@@ -1,12 +1,28 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thabus/thabus/main/assets/banner_roxa_abstrata.png" alt="Banner Roxa Abstrata com Detalhes Geométricos" width="100%">
-</p>
-
 <h1 align="center">🔮 Thaís Bustamante: Exploradora de Dados e Arquiteta de IA 🔮</h1>
 
 <p align="center">
   Bem-vinda(o) à minha base de operações no GitHub! Sou Thaís, uma estudante apaixonada por desvendar os segredos dos dados e construir o futuro com Inteligência Artificial. Atualmente, estou no <b>6º período de Ciência de Dados e Inteligência Artificial</b>, aprimorando minhas habilidades e expandindo meu arsenal tecnológico. Minha jornada é um constante aprendizado, onde cada linha de código é um passo em direção a soluções inovadoras e inteligentes.
 </p>
+
+---
+
+### 📈 Minha Jornada: Estatísticas do GitHub
+
+Acompanhe meu progresso e descubra mais sobre minha atividade no GitHub:
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thabus&show_icons=true&theme=dark&line_height=20&bg_color=1F222E&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=BB86FC" alt="Estatísticas do GitHub">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=thabus&theme=dark&background=1F222E&border=BB86FC&ring=BB86FC&currstreak=FFFFFF&fire=BB86FC&sidebtns=FFFFFF&dates=FFFFFF" alt="Sequência de Commits no GitHub">
+</p>
+
+### 💻 Linguagens Mais Utilizadas
+
+Descubra quais linguagens de programação impulsionam meus projetos:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabus&layout=compact&theme=dark&bg_color=1F222E&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=BB86FC" alt="Top Linguagens">
+</p>
+
 
 ---
 
@@ -38,24 +54,7 @@ Cada projeto é uma missão cumprida, um marco na minha jornada de desenvolvimen
 
 - 🔗 **<a href="https://ibtech.sendodigital.com/">Ibtech</a>**: Um dos meus primeiros desafios, que me permitiu aplicar e consolidar conhecimentos práticos.
 
----
 
-### 📈 Minha Jornada: Estatísticas do GitHub
-
-Acompanhe meu progresso e descubra mais sobre minha atividade no GitHub:
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thabus&show_icons=true&theme=dark&line_height=20&bg_color=1F222E&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=BB86FC" alt="Estatísticas do GitHub">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=thabus&theme=dark&background=1F222E&border=BB86FC&ring=BB86FC&currstreak=FFFFFF&fire=BB86FC&sidebtns=FFFFFF&dates=FFFFFF" alt="Sequência de Commits no GitHub">
-</p>
-
-### 💻 Linguagens Mais Utilizadas
-
-Descubra quais linguagens de programação impulsionam meus projetos:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabus&layout=compact&theme=dark&bg_color=1F222E&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=BB86FC" alt="Top Linguagens">
-</p>
 
 ---
 
