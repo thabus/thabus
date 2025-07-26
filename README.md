@@ -1,8 +1,8 @@
 <p align="center">
- <img src="https://i.imgur.com/YOUR_NEW_BANNER_URL.png" alt="Banner Roxa Abstrata com Detalhes Geométricos" width="100%">
+ <img src="[https://i.imgur.com/YOUR_NEW_BANNER_URL.png](https://static.vecteezy.com/system/resources/thumbnails/016/706/387/small/abstract-purple-watercolor-background-aesthetic-ink-painting-free-vector.jpg)" alt="Banner Roxa Abstrata com Detalhes Geométricos" width="100%">
 </p>
 
-<h1 align="center">🔮 Thais Bustamante: Exploradora de Dados e Arquiteta de IA 🔮</h1>
+<h1 align="center">🔮 Thaís Bustamante: Exploradora de Dados e Arquiteta de IA 🔮</h1>
 
 <p align="center">
  Bem-vinda(o) à minha base de operações no GitHub! Sou Thaís, uma estudante apaixonada por desvendar os segredos dos dados e construir o futuro com Inteligência Artificial. Atualmente, estou no <b>5º período de Ciência de Dados e Inteligência Artificial</b>, aprimorando minhas habilidades e expandindo meu arsenal tecnológico. Minha jornada é um constante aprendizado, onde cada linha de código é um passo em direção a soluções inovadoras e inteligentes.
@@ -45,8 +45,8 @@ Cada projeto é uma missão cumprida, um marco na minha jornada de desenvolvimen
 Acompanhe meu progresso e descubra mais sobre minha atividade no GitHub:
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&line_height=20" alt="Estatísticas do GitHub">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark" alt="Sequência de Commits no GitHub">
+ <img src="https://github-readme-stats.vercel.app/api?username=thabus&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&line_height=20" alt="Estatísticas do GitHub">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabus&theme=dark" alt="Sequência de Commits no GitHub">
 </p>
 
 ---
@@ -56,6 +56,6 @@ Acompanhe meu progresso e descubra mais sobre minha atividade no GitHub:
 Adoraria colaborar em projetos inovadores ou apenas trocar ideias sobre o vasto universo da Ciência de Dados e Inteligência Artificial. Sinta-se à vontade para me contatar:
 
 <p align="center">
- <a href="mailto:SEU_EMAIL@EMAIL.COM"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+ <a href="mailto:tata.dab@yahoo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
