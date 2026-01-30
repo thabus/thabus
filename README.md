@@ -1,68 +1,58 @@
-<h1 align="center">🔮 Thaís Bustamante: Exploradora de Dados e Arquiteta de IA 🔮</h1>
+# Olá, eu sou a Thaís Bustamante! 👋
 
-<p align="center">
-  Bem-vinda(o) à minha base de operações no GitHub! Sou Thaís, uma estudante apaixonada por desvendar os segredos dos dados e construir o futuro com Inteligência Artificial. Atualmente, estou no <b>7º período de Ciência de Dados e Inteligência Artificial</b>, aprimorando minhas habilidades e expandindo meu arsenal tecnológico. Minha jornada é um constante aprendizado, onde cada linha de código é um passo em direção a soluções inovadoras e inteligentes.
-</p>
+> **Desenvolvedora Fullstack & Engenheira de Dados**
 
----
-
-### 📈 Minha Jornada: Estatísticas do GitHub
-
-Acompanhe meu progresso e descubra mais sobre minha atividade no GitHub:
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thabus&show_icons=true&theme=dark&line_height=20&bg_color=1F222E&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=BB86FC" alt="Estatísticas do GitHub">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=thabus&theme=dark&background=1F222E&border=BB86FC&ring=BB86FC&currstreak=FFFFFF&fire=BB86FC&sidebtns=FFFFFF&dates=FFFFFF" alt="Sequência de Commits no GitHub">
-</p>
-
-### 💻 Linguagens Mais Utilizadas
-
-Descubra quais linguagens de programação impulsionam meus projetos:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabus&layout=compact&theme=dark&bg_color=1F222E&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=BB86FC" alt="Top Linguagens">
-</p>
-
+Atualmente no **7º período de Ciência de Dados e IA**, combino a lógica analítica de dados com a capacidade de construção de softwares robustos. Meu foco é criar soluções que não apenas funcionam, mas geram valor de negócio, seja através de um **Sistema ERP complexo** ou de um **Pipeline de Big Data na Azure**.
 
 ---
 
-### 🚀 Minhas Habilidades: O Arsenal da Thaís
+## 🚀 Projetos em Destaque
 
-Abaixo, você encontrará as ferramentas e linguagens que domino e que me permitem dar vida a projetos desafiadores. Cada ícone representa um nível de proficiência em constante evolução!
+Aqui estão as soluções mais complexas que desenvolvi recentemente:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge">
-</p>
-
-<p align="center">
-  Em constante busca por novos desafios, estou sempre aprimorando minhas habilidades existentes e desbravando novas tecnologias para expandir meu repertório.
-</p>
+| Projeto | Tech Stack | Descrição |
+| :--- | :--- | :--- |
+| **[📂 Sistema ERP Comercial](https://github.com/thabus/portfolio-erp)** | `Java` `Spring Boot` `React` | Sistema completo de gestão com controle financeiro, workflow de chamados (SLA), regras de negócio complexas e segurança via JWT. |
+| **[☁️ Pipeline de Dados B3](https://github.com/thabus/Projeto_Cloud)** | `Azure` `Python` `Data Factory` | Engenharia de dados pura. Ingestão, transformação e carga (ETL) de dados da Bolsa de Valores utilizando arquitetura Serverless. |
+| **[🛒 API E-commerce Híbrida](https://github.com/thabus/Projeto_Ecommerce)** | `Java` `Cosmos DB` `MySQL` | Backend de alta performance utilizando persistência poliglota (SQL + NoSQL) integrado a um Chatbot. |
 
 ---
 
-### 🏆 Meus Desafios Concluídos: Uma Galeria de Projetos
+## 🛠️ Stack Tecnológica
 
-Cada projeto é uma missão cumprida, um marco na minha jornada de desenvolvimento. Explore alguns dos trabalhos que me orgulho de ter realizado:
+Ferramentas que utilizo para transformar problemas em soluções:
 
-- 🔗 **<a href="https://ibtech.sendodigital.com/">Ibtech</a>**: Um dos meus primeiros desafios, que me permitiu aplicar e consolidar conhecimentos práticos.
+### 💻 Desenvolvimento Fullstack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
+### 📊 Dados & Cloud
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-### ✉️ Conecte-se Comigo!
+## 📈 GitHub Stats
 
-Adoraria colaborar em projetos inovadores ou apenas trocar ideias sobre o vasto universo da Ciência de Dados e Inteligência Artificial. Sinta-se à vontade para me contatar:
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thabus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Thaís GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=css,html,jupyter%20notebook" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <a href="mailto:tata.dab@yahoo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+---
+
+## 📬 Vamos Conversar?
+
+Estou disponível para projetos freelance e consultorias em desenvolvimento web e análise de dados.
+
+<a href="https://www.linkedin.com/in/tha%C3%ADs-bustamante/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="mailto:thais.bustamante@outlook.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+</a>
