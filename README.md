@@ -37,12 +37,14 @@ Ferramentas que utilizo para transformar problemas em soluções:
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Workflow e Metodologias
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thabus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Thaís GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=css,html,jupyter%20notebook" alt="Top Languages" />
-</div>
+Não se trata apenas de código, mas de como o projeto é entregue:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Agile_Scrum-005696?style=for-the-badge&logo=scrum&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=c&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
