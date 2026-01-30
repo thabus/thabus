@@ -1,7 +1,7 @@
 <h1 align="center">🔮 Thaís Bustamante: Exploradora de Dados e Arquiteta de IA 🔮</h1>
 
 <p align="center">
-  Bem-vinda(o) à minha base de operações no GitHub! Sou Thaís, uma estudante apaixonada por desvendar os segredos dos dados e construir o futuro com Inteligência Artificial. Atualmente, estou no <b>6º período de Ciência de Dados e Inteligência Artificial</b>, aprimorando minhas habilidades e expandindo meu arsenal tecnológico. Minha jornada é um constante aprendizado, onde cada linha de código é um passo em direção a soluções inovadoras e inteligentes.
+  Bem-vinda(o) à minha base de operações no GitHub! Sou Thaís, uma estudante apaixonada por desvendar os segredos dos dados e construir o futuro com Inteligência Artificial. Atualmente, estou no <b>7º período de Ciência de Dados e Inteligência Artificial</b>, aprimorando minhas habilidades e expandindo meu arsenal tecnológico. Minha jornada é um constante aprendizado, onde cada linha de código é um passo em direção a soluções inovadoras e inteligentes.
 </p>
 
 ---
