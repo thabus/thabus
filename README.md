@@ -1,8 +1,8 @@
 # Olá, eu sou a Thaís Bustamante! 👋
 
-> **Desenvolvedora Fullstack & Engenheira de Dados**
+> **Engenheira de Dados & Automação | Desenvolvedora Fullstack**
 
-Atualmente no **7º período de Ciência de Dados e IA**, combino a lógica analítica de dados com a capacidade de construção de softwares robustos. Meu foco é criar soluções que não apenas funcionam, mas geram valor de negócio, seja através de um **Sistema ERP complexo** ou de um **Pipeline de Big Data na Azure**.
+Atualmente no **7º período de Ciência de Dados e IA**, combino a extração inteligente de dados com a capacidade de construir arquiteturas e softwares robustos. Meu foco é criar soluções de ponta a ponta que geram valor real para o negócio: seja construindo robôs para coletas complexas (Web Scraping), desenvolvendo um **Sistema ERP** do zero ou orquestrando **Pipelines Cloud (AWS/Azure)** de alta disponibilidade.
 
 ---
 
@@ -12,6 +12,7 @@ Aqui estão as soluções mais complexas que desenvolvi recentemente:
 
 | Projeto | Tech Stack | Descrição |
 | :--- | :--- | :--- |
+| **[☁️ Arquitetura Cloud & IA (BIA)](https://github.com/thabus/aws-ecs-deployment-bia)** | `AWS` `Docker` `CI/CD` `IA` | Infraestrutura em nuvem de alta disponibilidade (ECS, ALB) com esteira automatizada, HTTPS e integração com agentes de IA (Kiro-cli e MCP Server). |
 | **[📂 Sistema ERP Comercial](https://github.com/thabus/portfolio-erp)** | `Java` `Spring Boot` `React` | Sistema completo de gestão com controle financeiro, workflow de chamados (SLA), regras de negócio complexas e segurança via JWT. |
 | **[☁️ Pipeline de Dados B3](https://github.com/thabus/Projeto_Cloud)** | `Azure` `Python` `Data Factory` | Engenharia de dados pura. Ingestão, transformação e carga (ETL) de dados da Bolsa de Valores utilizando arquitetura Serverless. |
 | **[🛒 API E-commerce Híbrida](https://github.com/thabus/Projeto_Ecommerce)** | `Java` `Cosmos DB` `MySQL` | Backend de alta performance utilizando persistência poliglota (SQL + NoSQL) integrado a um Chatbot. |
@@ -31,9 +32,13 @@ Ferramentas que utilizo para transformar problemas em soluções:
 
 ### 📊 Dados & Cloud
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🤖 Automação & Scrape
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
 
