@@ -14,6 +14,7 @@ Aqui estão as soluções mais complexas que desenvolvi recentemente:
 | :--- | :--- | :--- |
 | **[🕸️ Real Estate & Gov Data Pipeline](https://github.com/thabus/public-records-scraping-pipeline)** | `Python` `Playwright` `Anti-bot` | Arquitetura de extração em nível de produção. Bypass de proteções avançadas (Patchright/Cloudflare), paginação de REST APIs e tratamento resiliente de erros. |
 | **[☁️ Arquitetura Cloud & IA (BIA)](https://github.com/thabus/aws-ecs-deployment-bia)** | `AWS` `Docker` `CI/CD` `IA` | Infraestrutura em nuvem de alta disponibilidade (ECS, ALB) com esteira automatizada, HTTPS e integração com agentes de IA (Kiro-cli e MCP Server). |
+| **[✈️ Flight Delay Prediction](https://github.com/thabus/commercial_flight_delay_prediction)** | `Python` `TensorFlow` `Deep Learning` | Arquitetura de Rede Neural (MLP) para predição de atrasos de voos comerciais (Gate-Level). Foco em prevenção de Data Leakage e otimização de threshold voltada para regras de negócio e mitigação de Falsos Negativos. |
 | **[📂 Sistema ERP Comercial](https://github.com/thabus/portfolio-erp)** | `Java` `Spring Boot` `React` | Sistema completo de gestão com controle financeiro, workflow de chamados (SLA), regras de negócio complexas e segurança via JWT. |
 | **[☁️ Pipeline de Dados B3](https://github.com/thabus/Projeto_Cloud)** | `Azure` `Python` `Data Factory` | Engenharia de dados pura. Ingestão, transformação e carga (ETL) de dados da Bolsa de Valores utilizando arquitetura Serverless. |
 | **[🛒 API E-commerce Híbrida](https://github.com/thabus/Projeto_Ecommerce)** | `Java` `Cosmos DB` `MySQL` | Backend de alta performance utilizando persistência poliglota (SQL + NoSQL) integrado a um Chatbot. |
@@ -34,6 +35,8 @@ Ferramentas que utilizo para transformar problemas em soluções de negócio:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 💻 Desenvolvimento Fullstack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
