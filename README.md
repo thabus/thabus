@@ -1,6 +1,9 @@
+[Read in English 🇺🇸](README-en.md)
+
 # Olá, eu sou a Thaís Bustamante! 👋
 
 > **Engenheira de Dados & Automação | Desenvolvedora Fullstack**
+
 
 Atualmente no **7º período de Ciência de Dados e IA**, combino a extração inteligente de dados com a capacidade de construir arquiteturas e softwares robustos. Meu foco é criar soluções de ponta a ponta que geram valor real para o negócio: seja construindo pipelines resilientes para coletas complexas (Web Scraping / Anti-bot), desenvolvendo um **Sistema ERP** do zero ou orquestrando **Infraestruturas Cloud (AWS/Azure)** de alta disponibilidade.
 
