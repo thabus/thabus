@@ -1,3 +1,5 @@
+[Ler em Português 🇧🇷](README.md)
+
 # Hi, I'm Thais Bustamante! 👋
 
 > **Data & Automation Engineer | Fullstack Developer**
