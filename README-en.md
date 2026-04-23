@@ -45,6 +45,16 @@ Here are the most complex solutions I've recently developed:
 
 ---
 
+## 🧠 Workflow & Methodologies
+
+Sustainable architecture, predictability, and continuous delivery:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Agile_Scrum-005696?style=for-the-badge&logo=scrum&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
 ## 📬 Let's Connect
 
 Available for architecting scalable data pipelines and Fullstack solutions.
